@@ -5,23 +5,6 @@
 <img src="https://media4.giphy.com/media/wLNuW1tCKRiPmDV5Y4/giphy.gif?cid=ecf05e47i96b9u6ikl976rejy7t5705t7epn3rghlqe8qy9u&rid=giphy.gif&ct=g" align="center" style="width: 100%" />
 </div>  
   
-
-- 🔭 I’m currently working on Ctrends Software & Services Ltd. (https://www.ctrends-software.com/)  
-  
-
-- 🌱 I’m currently learning AI and IOT  
-  
-
-- ❓ Ask me about anything related to Rest API, Spring boot, Java and related technologies.  
-  
-
-- 👨‍🚀 How to reach me : [click here](https://glittery-shortbread-a7be54.netlify.app/?fbclid=IwAR1tIuRb6IVQDJbfz7nsxCfaabm5m4rb13dn82KRjfhwfnsPMyrm6uTmMbM)  
-  
-
-- 📄Please have a look at my [Resume](https://drive.google.com/file/d/176xeH7s-sPWip-7Dfo2j27hAsD8oX2Pv/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!  
-  
-
-- ⚡Love to Travel  
   
 
 <br/>  
